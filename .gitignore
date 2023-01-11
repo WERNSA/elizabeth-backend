@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#edgedb migrations
+db/dbschema/migrations/**
